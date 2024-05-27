@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://b5bmb18sb57em"]
+
+[node name="Label" type="Label"]
+anchors_preset = -1
+anchor_right = 0.024
+anchor_bottom = 0.023
+offset_right = 12.352
+offset_bottom = 8.096
+text = "pog"
